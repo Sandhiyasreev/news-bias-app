@@ -45,6 +45,7 @@ news-bias-app/
 
 # 🙋‍♀️ Created By  
 Sandhiya Sree V
+sandhiyasreev@gmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/sandhiya-sree-v-3a2321298/)
 🌐 [GitHub](https://github.com/Sandhiyasreev)
 
